@@ -21,24 +21,12 @@
       <td>Intermediate</td>
     </tr>
     <tr>
-      <td>Java</td>
-      <td>Intermediate</td>
-    </tr>
-    <tr>
       <td>JavaScript/TypeScript</td>
-      <td>Proficient</td>
-    </tr>
-    <tr>
-      <td>Go</td>
       <td>Proficient</td>
     </tr>
     <tr>
       <td>ProtoBuf</td>
       <td>Proficient</td>
-    </tr>
-    <tr>
-      <td>C#</td>
-      <td>Knowledgeable</td>
     </tr>
     <tr>
       <td>HTML/CSS</td>
