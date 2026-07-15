@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img align="right" width="400" height="200" alt="github-image" src="./22.jpg" />
+<img align="right" width="500" height="250" alt="github-image" src="./22.jpg" />
 
 <h3>Linguagens</h3>
 
