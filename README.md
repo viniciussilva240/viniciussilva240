@@ -1,4 +1,6 @@
-<img width="100%" height="300" alt="GitHub Header Banner" src="Vwalpaper.jpg" />
+<p align="center">
+  <img src="Vwalpaper.jpg" alt="GitHub Header Banner" width="100%" />
+</p>
 
 <br>
 
