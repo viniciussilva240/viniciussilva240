@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<h1>Olá, eu sou Vinicius Silva Martins Costa 👋</h1>
+<h1>Olá, eu sou Vinicius Silva Martins Costa </h1>
 
-<h3>🚀 Full-Stack .NET Developer</h3>
+<h3>Full-Stack .NET Developer</h3>
 
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
   <img align="right" width="420" height="210" alt="Vinicius" src="./22.jpg" />
 
-  <h3>💻 Languages & Tools</h3>
+  <h3> Languages & Tools</h3>
 
  <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="42" title="C#"/>
@@ -59,7 +59,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img
