@@ -57,14 +57,3 @@
 
 <br clear="right">
 
----
-
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
