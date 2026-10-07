@@ -19,7 +19,7 @@
 
   <h3>💻 Languages & Tools</h3>
 
-  <p>
+ <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="42" title="C#"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="42" title="Python"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
@@ -50,16 +50,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="42" title="Postman"/>
     <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="42" title="Swagger"/>
   </p>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=selenium" width="42" title="Selenium"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" title="OpenAI"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" title="Scikit-Learn"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="42" title="NumPy"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="42" title="Pandas"/>
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" title="Hugging Face"/>
-  </p>
 </div>
+
+<br clear="right">
+
 
 <br clear="right">
 
